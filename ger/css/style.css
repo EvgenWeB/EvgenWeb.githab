@@ -1,0 +1,229 @@
+/* main */
+body {
+	background: url(../img/BC_BC.png) center center no-repeat;
+	text-align: center;
+	color: #0a0a0a;
+}
+
+html {
+    font-size: 12px;
+}
+
+.container {
+	width: 80%;
+	text-align: center;
+}
+#main header {
+	margin-top: 5px;
+	margin-bottom: 20px;
+	text-align: auto;
+	width: 80%;
+	height: 115px;
+}
+
+.phone_1 {
+	display: inline-block;
+	width: 158px;
+	height: 15px;
+	margin-top: 56px;
+}
+.phone_2 { 
+	display: inline-block;
+	width: 158px;
+	height: 15px;
+	margin-top: 56px;
+	}
+.logo-p {
+	display: inline-block;
+	width: 212px;
+	height: 84px;
+	text-align: center;
+	padding-bottom: 18px;
+	margin-top: 15px;
+}
+.btn-1 {
+	height: 30px;
+	width: 185px;
+	text-align: center;
+	margin-top: 56px;
+}
+.btn-2 {
+	height: 30px;
+	width: 185px;
+	text-align: center;
+	background-color: #cc9999;
+	border: none;
+	color: #ffffff;
+	margin-top: 56px;
+}
+.button-btn-2 {
+	text-align: right;
+}
+.text_1 {
+	color: #cc9999;
+	
+}
+.text_2 {
+	color: #cc9999;
+	
+}
+/* mainmenu */
+.ul_line {
+	width: 1175px;
+	height: 60px; 
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 24px;
+}
+#mainmenu {
+	background: #444;
+ 	position: relative;
+	overflow: hidden;
+ 	height: 60px;
+ 	margin: 25px 0;
+}
+#mainmenu ul {
+ 	list-style: none;
+ 	margin: 0;
+ 	padding: 0;
+ 	position: relative;
+ 	left: 2rem;
+ 	height: 60px;
+}
+#mainmenu ul li {
+ 	position: relative;
+ 	float: left;
+ 	margin: 0 0;
+ 	height: 20px;
+}
+#mainmenu ul li a {
+ 	color: #fff;
+ 	text-decoration: none;
+ 	padding: 23px 58px;
+ 	line-height: 60px;
+}
+#mainmenu ul li 
+	a:hover {
+ 	background-color: #ddd; 
+}
+.table {
+	color: #fff;
+}
+/* Экскурсии*/
+
+.section-header {
+	height: 1780px;
+	width: 1175px;
+	padding-top: 30px;
+	font-size: 12px;
+	margin-bottom: 30px;
+}
+ 
+.button-prices {
+	padding-bottom: 44px;
+
+}
+.prices btn-1 {
+	border-bottom-style: solid;
+	padding-bottom: 56px;
+	width: 25px;
+
+}
+
+.prices-foto {
+	
+} 
+h2 {
+	padding-top: 15px;
+}
+
+
+
+
+
+/* footer */
+
+footer {
+	background: url(../img/footer.png) center center no-repeat;
+	width: auto;
+}
+#menu {
+	padding: 5px 10px;
+}
+.section-footer {
+    height: 338px;
+    width: 1175px;	
+}
+
+#menu ul {
+ 	list-style: none;
+ 	margin: 0;
+ 	padding: 0;
+ 	left: 4rem;
+ 	height: 338px;
+}
+#menu ul li {
+ 	width: 200px;
+ 	float: center;
+ 	margin: 5px 20px;
+ 	height: 20px;
+ 	padding-top: 40px;
+ 	margin-bottom: -17px;
+}
+#menu ul li a {
+	font-size: 17px;
+ 	color: #cccccc;
+ 	display: inline-block;
+	margin-left: 13px;
+	margin-right: 13px;
+}
+#menu h4 {
+	height: 14px;
+	width: 185px;
+	color: #cccccc;
+	padding-left: 45px;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+.manu_ul li {
+	list-style: none;
+	width: 180px;
+	height: 30px;
+ 	padding-top: 25px;
+}
+#menume { 
+	list-style: none;
+	padding-top: 25px;
+	width: 290px;
+	height: 340px;
+}
+#menume li { 
+	list-style: none;
+	color: black;
+	padding-top: 1px;
+	padding-bottom: 1px;
+} 
+.footer_icon_1 {
+	display: inline-block;
+	list-style: none;
+	text-align: right;
+	height: 170px;
+	width: 290px;
+	padding-top: 25px;
+	padding-left: 10px;
+	padding-bottom: 40px;
+}
+.footer_icon_1 ul li a {
+	color: #cccccc;
+	font-size: 15px;
+}
+.footer_icon_2 {
+	display: inline-block;
+	text-align: right; 
+	padding-top: 45px;
+	height: 170px;
+	width: 290px;
+}
+.footer_icon_2 a {
+	padding: 7px 10px;
+}
